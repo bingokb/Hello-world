@@ -1,3 +1,3 @@
 # Hello-world
-First repository \n
+First repository  
 2019-3-24 test
