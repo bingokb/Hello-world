@@ -14,3 +14,6 @@ First repository
 	
 - learngit
 - git command
+
+# 2019-4-16
+- Mysql python
