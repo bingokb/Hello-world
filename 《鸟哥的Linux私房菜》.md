@@ -42,8 +42,8 @@
 只读存储器：ROM Read Only Memory 非易失性存储
 BIOS: Basic Input Output System
 
-SDRAM/DDR|型号|数据位宽（bit）|内部频率（MHz）|频率速度|$\color{#4285f4}{带宽}\color{red}{（频率×位宽}）$
----|------------|---|---|---|---|
+SDRAM/DDR|型号|数据位宽（bit）|内部频率（MHz）|频率速度| <font color=4285f4>带宽</font><font color=red>（频率×位宽）</font> 
+---|------------|---|---|---|---
 SDRAM|PC100|64|100|100|800MB/s
 SDRAM|PC133|64|133|133|1064MB/s
 DDR|DDR-266|64|133|266|2.1GB/s
@@ -150,6 +150,7 @@ Unicode UTF-8 ISO/IEC制订
 ### 0.4.2 操作系统
 #### 操作系统内核 Kernel
 <font color=red>&nbsp;&nbsp;操作系统 Operating System, OS ：是一组程序，重点在于管理电脑的所有活动以及驱动系统中的所有硬件</font>
+
 #### 系统调用 System Call
     应用程序编程接口： Application Programming Interface API
     硬件-内核-系统调用-应用程序（壳程序） P27
@@ -191,3 +192,11 @@ Unicode UTF-8 ISO/IEC制订
 - 操作系统(Operating System,OS)其实也是一组程序，这组程序的重点在于管理电脑的所有操作以及驱动系统中的所有硬件。
 - 电脑主要以二进制位单位，常用的磁盘容量单位为字节(Byte)，其单位换算为1字节=8位。
 - 最普通的操作系统仅在驱动与管理硬件，而要使用硬件时，就得需要通过应用软件或是壳程序(Shell)的功能，来调用操作系统操作硬件工作。目前称为操作系统的除了上述功能外，通常已经包含了日常工作所需要的应用软件在内。
+
+PS:外部资料
+![1](C:\Users\YB\Desktop\thunderbolt3.jpg)
+
+
+
+
+
